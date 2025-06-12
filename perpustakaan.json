@@ -1,0 +1,82 @@
+[
+    {
+        "judul": "Algoritma dan Struktur Data",
+        "pengarang": "Donald Knuth",
+        "tahun": 2005,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Automate the Boring Stuff with Python",
+        "pengarang": "Al Sweigart",
+        "tahun": 2015,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Clean Code",
+        "pengarang": "Robert C. Martin",
+        "tahun": 2008,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Design Patterns",
+        "pengarang": "Erich Gamma et al.",
+        "tahun": 1994,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Eloquent JavaScript",
+        "pengarang": "Marijn Haverbeke",
+        "tahun": 2011,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "HTML and CSS",
+        "pengarang": "John",
+        "tahun": 2003,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Introduction to Algorithms",
+        "pengarang": "Thomas H. Cormen",
+        "tahun": 2009,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Machine Learning",
+        "pengarang": "Andrew Ng",
+        "tahun": 2018,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "Pemrograman Python",
+        "pengarang": "Guido van Rossum",
+        "tahun": 2010,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    },
+    {
+        "judul": "The Pragmatic Programmer",
+        "pengarang": "Andrew Hunt dan David Thomas",
+        "tahun": 1999,
+        "dipinjam": false,
+        "tanggal_peminjaman": null,
+        "antrian_peminjam": []
+    }
+]
